@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Asdasda	sasd
 sf
 	sadf
+=======
+Asdasdasasdfsadf asdadasdasasdfasdfasdf
+>>>>>>> 2d48e84ab691680b497b3106edb0d85970ef24c6
